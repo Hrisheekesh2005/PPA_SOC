@@ -1,0 +1,9 @@
+Block,Instances,Ceff pF/instance,Activity alpha,Voltage V,Frequency GHz,Leakage W/instance,Tool total power W/instance,Std-cell area mm2/instance,Macro area mm2/instance,Data source / conditions
+CPU performance cores,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Unspecified
+CPU efficiency cores,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Unspecified
+Integrated GPU,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Unspecified
+NPU / AI accelerator,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Unspecified
+Shared cache / uncore,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Unspecified
+Memory controller + NoC,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Unspecified
+Media / display engine,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Unspecified
+Other on-die logic,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Unspecified
